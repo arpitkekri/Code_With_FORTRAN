@@ -19,6 +19,7 @@ PROGRAM  Arpit
     DO i = 1, 128               ! Grid points = 128
         x = x + 0.15            ! With dexX = 0.15  
         Gx = ((1. / (pi * delta * delta)) ** (1./4.)) * EXP(-((x - x0) * (x - x0)) / (2 * delta * delta)) ! No need of iota term it will be 1 after squre
+        ! Do not exclude iota term even it will become 1 after computation --> My 3 marks gone for this single mistake
         WRITE(outunit, * ) x, Gx ** 2
     ENDDO
     CLOSE(outunit)
