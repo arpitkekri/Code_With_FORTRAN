@@ -1,4 +1,4 @@
-PROGRAM PIB1D_LinearRamp
+PROGRAM PIB1D_Amonnia
     IMPLICIT NONE
 
     REAL, PARAMETER :: PI = acos(-1.0)
@@ -60,4 +60,4 @@ PROGRAM PIB1D_LinearRamp
     EnergyDiff = 6579689.75 * (eigenVal(2) - eigenVal(1))
     WRITE(*, *) "The difference between the second lowest and lowest is: ", EnergyDiff, "GHz"
 
-END PROGRAM PIB1D_LinearRamp
+END PROGRAM PIB1D_Amonnia
