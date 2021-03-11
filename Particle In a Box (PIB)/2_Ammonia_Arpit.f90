@@ -1,4 +1,4 @@
-
+! Name: Arpit Kumar Jain,  Roll No. 180122009
 PROGRAM PIB1D_Amonnia
     IMPLICIT NONE
 
@@ -53,8 +53,8 @@ PROGRAM PIB1D_Amonnia
 
     OPEN(UNIT = 20, FILE = 'eigenstate.txt')
         DO i = 1, nx 
-            WRITE(20, 11) x(i), hmat(i, 1)/sqrt(dx)
-            11 FORMAT(f0.6, 3x, f0.6)
+            WRITE(20, 11) x(i), hmat(i, 1)/sqrt(dx), eigenVal(i)
+            11 FORMAT(f0.6, 3x, f0.6, 3x, f0.8)
         ENDDO
     CLOSE(20)
 
