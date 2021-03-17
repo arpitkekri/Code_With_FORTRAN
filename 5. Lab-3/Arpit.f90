@@ -77,7 +77,7 @@ PROGRAM ChebyshevAndLagrangeInterpolation
             PnX = PnX + F(i) * Lagrange(i)
         ENDDO
 
-        ! stodting PnX value in the ans
+        ! storeing PnX value in the ans
         ans = PnX
     END SUBROUTINE LagrangeInterpolation
 
