@@ -21,9 +21,9 @@ PROGRAM q2
     ENDDO
     
     OPEN(UNIT = 20, FILE = 'output.txt')
-    DO i = 1, 500
-        WRITE(20, *) x(i), (1./PI) * J(i, 0), (1./PI) * J(i, 1), (1./PI) * J(i, 2)
-    ENDDO
+        DO i = 1, 500
+            WRITE(20, *) x(i), (1./PI) * J(i, 0), (1./PI) * J(i, 1), (1./PI) * J(i, 2)
+        ENDDO
     CLOSE(20)
 
     CONTAINS
@@ -53,7 +53,7 @@ PROGRAM q2
         REAL:: x, theta
         INTEGER:: m
         f = Cos(m * theta - x * sin(theta))
-        return
+        RETURN
     END FUNCTION f
 
 END PROGRAM q2
