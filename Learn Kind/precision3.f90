@@ -11,4 +11,5 @@ PROGRAM test
     REAL(KIND = dp):: X
     X = SIZE(A)-1
     PRINT *, KIND(x), x
+    
 END PROGRAM 
