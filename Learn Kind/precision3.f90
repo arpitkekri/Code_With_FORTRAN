@@ -3,7 +3,7 @@ MODULE precision
     INTEGER, PARAMETER:: dp = SELECTED_REAL_KIND(12)
 END MODULE precision
 
-PROGRAM test
+PROGRAM precision_using_module
     USE precision
     IMPLICIT NONE
 
@@ -12,4 +12,4 @@ PROGRAM test
     X = SIZE(A)-1
     PRINT *, KIND(x), x
     
-END PROGRAM 
+END PROGRAM precision_using_module
