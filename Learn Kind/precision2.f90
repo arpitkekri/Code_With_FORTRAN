@@ -8,6 +8,7 @@ PROGRAM accuracy
     B = 0.1 * A
     C = 0.1_double * A
 
+    PRINT *, A
     PRINT *, B
     PRINT *, C
 
