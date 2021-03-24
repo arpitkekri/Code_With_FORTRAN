@@ -3,12 +3,10 @@ PROGRAM REAL_KIND
 
     ! REAL, DIMENSION(20000000) :: A
     ! REAL:: X
-
     REAL(KIND = 8), DIMENSION(20000000) :: A
     REAL(KIND = 8):: X
 
     X = SIZE(A) - 1
-
     PRINT* , x, kind(x), kind(0), kind(0.0)
 
 END PROGRAM REAL_KIND
