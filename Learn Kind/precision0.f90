@@ -1,10 +1,8 @@
-program test
-implicit none
-integer(2) num
+PROGRAM error
+    IMPLICIT NONE
 
-num=2147483647
+    INTEGER(2) num
+    num = 2147483647
+    PRINT *, num
 
-print*,num
-
-stop
-end
+END PROGRAM error

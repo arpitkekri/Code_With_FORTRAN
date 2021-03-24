@@ -1,5 +1,4 @@
 PROGRAM accuracy
-
     IMPLICIT NONE
 
     INTEGER, PARAMETER  ::  double = SELECTED_REAL_KIND (13)
@@ -12,4 +11,4 @@ PROGRAM accuracy
     PRINT *, B
     PRINT *, C
 
-END PROGRAM 
+END PROGRAM accuracy
