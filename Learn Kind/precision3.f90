@@ -1,12 +1,14 @@
-module pres
-integer,parameter::dp=selected_real_kind(12)
-end module pres
+MODULE precision
+    ! dp = double precision
+    INTEGER, PARAMETER:: dp = SELECTED_REAL_KIND(12)
+END MODULE precision
 
-program test
-use pres
-implicit none
-REAL(kind=dp), DIMENSION(20000000) :: A
-REAL(kind=dp) :: X
-X = SIZE(A)-1
-PRINT* , kind(x),x!,kind(0),kind(0.0)
-END
+PROGRAM test
+    USE precision
+    IMPLICIT NONE
+
+    REAL(KIND = dp), DIMENSION(20000000):: A
+    REAL(KIND = dp):: X
+    X = SIZE(A)-1
+    PRINT *, KIND(x), x
+END PROGRAM 
