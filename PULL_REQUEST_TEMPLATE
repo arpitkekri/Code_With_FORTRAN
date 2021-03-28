@@ -5,12 +5,6 @@
 Please include a summary of the problem and about the approach to solve the solution. Please also include relevant motivation and context.
 List any dependencies that are required for this change.
 
-## Put check marks:
-## Have you made changes in [README](./README.md) file ?
-- [ ] Added problem & solution under correct topic.
-- [ ] Specified Space & Time complexity.
-- [ ] Specified difficulty level & tag.
-
 ## How Has This Been Tested?
 
 Please describe the tests that you ran to verify your changes. Please also note any relevant details for your test configuration.
