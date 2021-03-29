@@ -12,4 +12,4 @@ For Course material (Lecture Notes & Assignments Question Papers) [Click Here](h
 
 - You can add a script file for gnuplot commands in a file `{filename}.gnu` 
 - Then run `gnuplot` in terminal / cmd and instead of gnuplot command load the script using `load 'filename.gnu'`
-- i.e. `load 'plot.gnu'` or `load "plot.gnu"` (Here filename is **plot**)
+- i.e. `load 'plot.gnu'` or ```load "plot.gnu"``` (Here filename is **plot**)
