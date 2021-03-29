@@ -1,7 +1,6 @@
 # [Code_With_FORTRAN](https://github.com/arpitkekri/Code_With_FORTRAN)
 
-<img src="https://sloc.xyz/github/codedecks-in/LeetCode-Solutions" alt="LOC"/> <a href="https://github.com/codedecks-in/LeetCode-Solutions/stargazers"><img src="https://img.shields.io/github/stars/codedecks-in/LeetCode-Solutions" alt="Stars Badge"/></a>
-<a href="https://github.com/codedecks-in/LeetCode-Solutions/network/members"><img src="https://img.shields.io/github/forks/codedecks-in/LeetCode-Solutions" alt="Forks Badge"/></a>
+<img src="https://sloc.xyz/github/codedecks-in/LeetCode-Solutions" alt="LOC"/>
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codedecks-in/LeetCode-Solutions?color=2b9348"></a>
 
 ---
