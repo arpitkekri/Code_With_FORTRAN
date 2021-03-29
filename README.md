@@ -2,7 +2,7 @@
 
 <img src="https://sloc.xyz/github/arpitkekri/Code_With_FORTRAN" alt="Total Line of code"/>&nbsp;
 
-![Language](https://img.shields.io/badge/language-FORTRAN90%20%2F%20Fortran95-orange.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-FORTRAN%2090%2F95-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
 ![contributions wlcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
