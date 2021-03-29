@@ -1,6 +1,6 @@
 # [Code_With_FORTRAN](https://github.com/arpitkekri/Code_With_FORTRAN)
 
-<img src="https://sloc.xyz/github/codedecks-in/LeetCode-Solutions" alt="LOC"/> <img src="https://img.shields.io/github/stars/codedecks-in/LeetCode-Solutions" alt="Stars Badge"/></a>
+<img src="https://sloc.xyz/github/codedecks-in/LeetCode-Solutions" alt="LOC"/>
 
 ---
 
