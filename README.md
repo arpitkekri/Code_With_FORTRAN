@@ -1,11 +1,5 @@
 # [Code_With_FORTRAN](https://github.com/arpitkekri/Code_With_FORTRAN)
 
-
-<p align="center">
-<!-- <a  href="https://www.facebook.com/groups/codedecks">
-       <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png"> -->
- <p/>
-
 <img src="https://sloc.xyz/github/codedecks-in/LeetCode-Solutions" alt="LOC"/> <a href="https://github.com/codedecks-in/LeetCode-Solutions/stargazers"><img src="https://img.shields.io/github/stars/codedecks-in/LeetCode-Solutions" alt="Stars Badge"/></a>
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/network/members"><img src="https://img.shields.io/github/forks/codedecks-in/LeetCode-Solutions" alt="Forks Badge"/></a>
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codedecks-in/LeetCode-Solutions?color=2b9348"></a>
