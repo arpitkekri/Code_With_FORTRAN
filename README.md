@@ -1,6 +1,6 @@
 # [Code_With_FORTRAN](https://github.com/arpitkekri/Code_With_FORTRAN)
 
-<img src="https://sloc.xyz/github/codedecks-in/LeetCode-Solutions" alt="LOC"/>
+<img src="https://sloc.xyz/github/arpitkekri/Code_With_FORTRAN" alt="Total Line of code"/>
 
 ---
 
