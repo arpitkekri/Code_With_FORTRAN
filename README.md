@@ -2,13 +2,14 @@
 
 <img src="https://sloc.xyz/github/arpitkekri/Code_With_FORTRAN" alt="Total Line of code"/>
 
-
+---
 
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20%2F%20JS%20%2F%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
 
+---
 
 This is a repository for FORTAN 90/95 codes used in my CH332-Computational Chemistry course to handily address Complex Numerical Methods in Quantum Chemistry like Time dependent Schrodinger Equation.
 
