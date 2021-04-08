@@ -22,7 +22,7 @@ PROGRAM RK2_Method
 
     WRITE(*, fmt = '(/A)', ADVANCE = 'NO') "Enter value of starting point X0 =  "
     READ(*, *) x0
-    WRITE(*, fmt = '(/A, f0.3, A)', ADVANCE = 'NO') "Enter value of value at this point Y(", X0, ") =  "
+    WRITE(*, fmt = '(/A, f0.3, A)', ADVANCE = 'NO') "Enter value at this point Y(", X0, ") =  "
     READ(*, *) y0
     WRITE(*, fmt = '(/A)', ADVANCE = 'NO') "Enter step size h =  "
     READ(*, *) h 
