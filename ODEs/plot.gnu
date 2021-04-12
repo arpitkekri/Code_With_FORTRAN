@@ -1,0 +1,1 @@
+p 'output.txt' u 1:2 w l title '[A]', 'output.txt' u 1:3 w l title '[B]', 'output.txt' u 1:4 w l title '[C]', 'output.txt' u 1:5 w l title '[D]'

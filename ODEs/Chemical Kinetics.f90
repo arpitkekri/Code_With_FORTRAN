@@ -10,7 +10,7 @@ MODULE RxnConstant
 
     INTEGER, PARAMETER:: n = 4
     REAL(KIND = dp), PARAMETER:: kab = 1, kba = 3, kbc = 4.2, kcb = 7.3, kcd = 0.4
-ENDMODULE RxnConstant
+END MODULE RxnConstant
 
 PROGRAM Chemical_Kinetics_Rxn
     USE precision
