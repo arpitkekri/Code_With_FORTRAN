@@ -1,0 +1,2 @@
+ffmpeg -i printme%d.png movie.mp4
+ffmpeg -itsscale 5.0 -i movie.mp4 -c copy movie2.mp4
