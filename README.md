@@ -1,5 +1,6 @@
 # [Code_With_FORTRAN](https://github.com/arpitkekri/Code_With_FORTRAN)
 
+[![GitHub stars](https://img.shields.io/github/stars/arpitkekri/Code_With_FORTRAN?color=bright)](https://github.com/arpitkekri/Code_With_FORTRAN/stargazers)&nbsp;
 ![Total lines of code](https://sloc.xyz/github/arpitkekri/Code_With_FORTRAN)&nbsp;
 ![Language](https://img.shields.io/badge/language-FORTRAN%2090%2F95-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
