@@ -5,7 +5,7 @@
 ![Total lines of code](https://sloc.xyz/github/arpitkekri/Code_With_FORTRAN)&nbsp;
 ![Language](https://img.shields.io/badge/language-FORTRAN%2090%2F95-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)
 ---
 
 This is a repository for FORTAN 90/95 codes used in my CH332-Computational Chemistry course to handily address Complex Numerical Methods in Quantum Chemistry like Time dependent Schrodinger Equation.
